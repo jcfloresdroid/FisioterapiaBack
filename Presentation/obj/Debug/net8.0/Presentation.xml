@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Presentation</name>
+    </assembly>
+    <members>
+        <member name="M:Presentation.Controllers.CalendarioController.getCalendario(System.DateTime)">
+            <summary>
+            Devuelve las citas y los pacientes de una fecha determinada
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.getEspecialidades(System.Boolean)">
+            <summary>
+            Catalogo de especialidades
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.getEstadoCivil(System.Boolean)">
+            <summary>
+            Catalogo de estado Civil
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.getFlujoVaginal(System.Boolean)">
+            <summary>
+            Catalogo de flujo Vaginal
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.getMotivoAlta(System.Boolean)">
+            <summary>
+            Catalogo de motivo de alta
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.getPatologias(System.Boolean)">
+            <summary>
+            Catálogo de patologías
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.getServicios(System.Boolean)">
+            <summary>
+            Catalogo de servicios
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.getAnticonceptivo(System.Boolean)">
+            <summary>
+            Catalogo de tipos de anticonceptivos
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PostEspecialidades(Core.Features.Catalogos.command.PostEspecialidades)">
+            <summary>
+            Registrar una nueva especialidad
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PostEstadoCivil(Core.Features.Catalogos.command.PostEstadoCivil)">
+            <summary>
+            Registra un nuevo estado civil
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PostFlujoVaginal(Core.Features.Catalogos.command.PostFlujoVaginal)">
+            <summary>
+            Registra un nuevo dato en flujo vaginal
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PostMotivoAlta(Core.Features.Catalogos.command.PostMotivoAlta)">
+            <summary>
+            Registra un nuevo dato en motivo alta
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PostPatologias(Core.Features.Catalogos.command.PostPatologias)">
+            <summary>
+            Registra un nuevo dato en patologías
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PostServicio(Core.Features.Catalogos.command.PostServicios)">
+            <summary>
+            Registra un nuevo servicio
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PostTivoAnticonceptivo(Core.Features.Catalogos.command.PostAnticonceptivos)">
+            <summary>
+            Registra un nuevo tipo de anticonceptivo
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PatchEspecialidades(Core.Features.Catalogos.command.PutEspecialidades)">
+            <summary>
+            Modifica una especialidad
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PatchEstadoCivil(Core.Features.Catalogos.command.PutEstadoCivil)">
+            <summary>
+            Modifica un estado civil
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PatchFlujo(Core.Features.Catalogos.command.PutFlujoVaginal)">
+            <summary>
+            Modifica un campo de flujo vaginal
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PatchMotivoAlta(Core.Features.Catalogos.command.PutMotivoAlta)">
+            <summary>
+            Modifica un campo de motivo de alta
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PatchPatologias(Core.Features.Catalogos.command.PutPatologias)">
+            <summary>
+            Modifica un campo de patologías
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PatchServicios(Core.Features.Catalogos.command.PutServicios)">
+            <summary>
+            Modifica un servicio
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CatalogoController.PatchTipoAnticonceptivo(Core.Features.Catalogos.command.PutAnticonceptivo)">
+            <summary>
+            Modifica un campo de tipo de anticonceptivo
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.FisioController.GetFisio(System.Boolean,System.Int32)">
+            <summary>
+            Lista de fisioterapeutas paginado
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.FisioController.getListFisio">
+            <summary>
+            Lista de los fisioterapeutas
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.FisioController.getTeam">
+            <summary>
+            Mi equipo
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.FisioController.getSearch(System.Int32,System.String,System.Boolean)">
+            <summary>
+            Buscador de fisioterapeutas
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.FisioController.ultimos">
+            <summary>
+            ultimos fisioterapeutas
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.FisioController.PostFisio(Core.Features.Fisioterapeutas.command.PostFisioterapeutas)">
+            <summary>
+            Registra a un nuevo fisioterapeuta
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.FisioController.StatusFisioterapeuta(Core.Features.Fisioterapeutas.command.StatusFisios)">
+            <summary>
+            Modificar el estatus de un fisioterapeuta
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CuentaController.Login(Core.Features.Cuenta.command.Login)">
+            <summary>
+            Inicio de Sesión
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CuentaController.getVeryfyUser(System.String)">
+            <summary>
+            Validación de Token
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CuentaController.Refresh(System.String)">
+            <summary>
+            Refrescar Token
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CuentaController.ModificacioContraseña(Core.Features.Cuenta.command.ModificarContraseñas)">
+            <summary>
+            Modificacion de contraseña
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CuentaController.ModificacioClave(Core.Features.Cuenta.command.ModificarClave)">
+            <summary>
+            Modificacion de clave
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.CuentaController.Logout">
+            <summary>
+            Cerrar Sesión
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.UsuarioController.getData">
+            <summary>
+            Obtener datos del usuario
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.UsuarioController.getClaveAdmin(System.String)">
+            <summary>
+            Validación de la clave del administrador
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.UsuarioController.fotoPerfil">
+            <summary>
+            Foto de perfil del usuario
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.UsuarioController.PostUser(Core.Features.Usuario.command.CreateUser)">
+            <summary>
+            Crear usuario
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.UsuarioController.PutUser(Core.Features.Usuario.command.ModificarUsuario)">
+            <summary>
+            Modificar usuario
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.Catalogos.UsuarioController.PutFoto(Core.Features.Usuario.command.ModificarFoto)">
+            <summary>
+            Modificar foto del usuario
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.CitaController.getDateDaily">
+            <summary>
+            Citas del día
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.CitaController.getDiagnostico(System.String,System.String)">
+            <summary>
+            Verifica si el paciente tiene un diagnostico activo
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.CitaController.getDate(System.String)">
+            <summary>
+            Citas del paciente
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.CitaController.PostDate(Core.Features.Citas.command.PostDate)">
+            <summary>
+            Crea una cita para el paciente
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.CitaController.PatchDate(Core.Features.Citas.command.ModifyDate)">
+            <summary>
+            Modifica una cita
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.DiagnosticoController.DiagnosticGet(System.String)">
+            <summary>
+            Diagnostico del paciente
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.DiagnosticoController.GetUltimo(System.String)">
+            <summary>
+            Ultima exploracion del paciente
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.DiagnosticoController.ActiveDiagnostic(System.String)">
+            <summary>
+            ¿Diagnostico activo del paciente?
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.DiagnosticoController.GetReview(System.String)">
+            <summary>
+            Revision (Citas)
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.DiagnosticoController.PostDiagnostic(Core.Features.Diagnostico.command.GeneralDiagnosticPost)">
+            <summary>
+            Crear un nuevo diagnostico
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.DiagnosticoController.PostReview(Core.Features.Diagnostico.command.PostRevisiones)">
+            <summary>
+            Se crea la revision del usuario (Citas)
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.DiagnosticoController.PatchDiagnotico(Core.Features.Diagnostico.command.FinalizarDiagnostico)">
+            <summary>
+            Finalizar diagnostico
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.ExpedienteController.getExpedient(System.String)">
+            <summary>
+            Expediente del paciente
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.ExpedienteController.PostExpedient(Core.Features.Pacientes.Command.PostExpedient)">
+            <summary>
+            Se crea el expediente del usuario
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.ExpedienteController.ModificacionExpediente(Core.Features.Pacientes.Command.ModificacionExpediente)">
+            <summary>
+            Modificacion del expediente
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.GraficosController.getDateGraphics">
+            <summary>
+            Datos de citas
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.GraficosController.getPatientGraphics">
+            <summary>
+            Datos de los pacientes
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.PacientesController.getPatients(System.Int32,System.Boolean)">
+            <summary>
+            Lista de pacientes paginado
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.PacientesController.getPatient(System.String)">
+            <summary>
+            Obtiene la Data de un paciente en especifico
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.PacientesController.getSearch(System.Int32,System.String,System.Boolean)">
+            <summary>
+            Buscador pacientes
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.PacientesController.getLastPatients">
+            <summary>
+            Ultimos pacientes registrados
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.PacientesController.PostPatient(Core.Features.Pacientes.Command.CreatePatient)">
+            <summary>
+            Registrar un nuevo paciente
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.PacientesController.StatusPaciente(Core.Features.Fisioterapeutas.command.StatusPaciente)">
+            <summary>
+            Estado del paciente
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.PacientesController.ModificacionPaciente(Core.Features.Pacientes.command.ModificarPaciente)">
+            <summary>
+            Modificar data del paciente
+            </summary>
+        </member>
+        <member name="M:Presentation.Controllers.ReporteController.getReport(System.String)">
+            <summary>
+            Pdf Diagnostico
+            </summary>
+        </member>
+    </members>
+</doc>

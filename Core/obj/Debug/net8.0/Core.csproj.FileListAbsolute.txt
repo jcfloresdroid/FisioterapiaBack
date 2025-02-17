@@ -1,0 +1,144 @@
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.deps.json
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.pdb
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\obj\Debug\net8.0\refint\Core.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.pdb
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\obj\Debug\net8.0\ref\Core.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.xml
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.xml
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\bin\Debug\net8.0\Core.deps.json
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\bin\Debug\net8.0\Core.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\bin\Debug\net8.0\Core.pdb
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\bin\Debug\net8.0\Core.xml
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\obj\Debug\net8.0\Core.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\obj\Debug\net8.0\refint\Core.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\obj\Debug\net8.0\Core.xml
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\obj\Debug\net8.0\Core.pdb
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\FisioLabs\BackEnd\fisiolabs_backend\Core\obj\Debug\net8.0\ref\Core.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\bin\Debug\net8.0\Core.deps.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\bin\Debug\net8.0\Core.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\bin\Debug\net8.0\Core.pdb
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\bin\Debug\net8.0\Core.xml
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\obj\Debug\net8.0\Core.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\obj\Debug\net8.0\refint\Core.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\obj\Debug\net8.0\Core.xml
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\obj\Debug\net8.0\Core.pdb
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\FisioNexus\Back-End\fisiolabs_backend\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\bin\Debug\net8.0\Core.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\bin\Debug\net8.0\Core.xml
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\obj\Debug\net8.0\Core.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\obj\Debug\net8.0\Core.xml
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.xml
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.xml
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.Message.Message.resources
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.GenerateResource.cache
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.xml
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.Message.Message.resources
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.GenerateResource.cache
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.xml
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\Core.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\Core.xml
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\bin\Debug\net8.0\Core.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\bin\Debug\net8.0\Core.xml
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\Core.Message.Message.resources
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.GenerateResource.cache
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Core\obj\Debug\net8.0\ref\Core.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.deps.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.pdb
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\bin\Debug\net8.0\Core.xml
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.Message.Message.resources
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.GenerateResource.cache
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\refint\Core.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.xml
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.pdb
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Core\obj\Debug\net8.0\ref\Core.dll

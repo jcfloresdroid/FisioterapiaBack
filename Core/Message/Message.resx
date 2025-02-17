@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LOGIN_00001" xml:space="preserve">
+    <value>Registro de Usuario</value>
+  </data>
+  <data name="LOGIN_00002" xml:space="preserve">
+    <value>El usuario no se encuentra registrado</value>
+  </data>
+  <data name="LOGIN_00003" xml:space="preserve">
+    <value>El usuario y contraseña no pueden estar vacias</value>
+  </data>
+  <data name="LOGIN_00004" xml:space="preserve">
+    <value>Credenciales incorrectas</value>
+  </data>
+  <data name="TOKEN_00001" xml:space="preserve">
+    <value>El refresh token es invalido o expiro</value>
+  </data>
+  <data name="USER_00001" xml:space="preserve">
+    <value>Usuario no encontrado</value>
+  </data>
+  <data name="USER_00002" xml:space="preserve">
+    <value>El campo username es obligatorio</value>
+  </data>
+  <data name="USER_00003" xml:space="preserve">
+    <value>El campo contraseña es obligatorio</value>
+  </data>
+  <data name="USER_00004" xml:space="preserve">
+    <value>El campo id especialidad es obligatorio</value>
+  </data>
+  <data name="USER_00005" xml:space="preserve">
+    <value>El correo no tiene un formato valido o es incorrecto</value>
+  </data>
+  <data name="USER_00006" xml:space="preserve">
+    <value>El telefono no tiene un formato valido o es incorrecto</value>
+  </data>
+  <data name="USER_00007" xml:space="preserve">
+    <value>La imagen es obligatoria</value>
+  </data>
+  <data name="USER_00008" xml:space="preserve">
+    <value>Solo se permiten los formatos .jpg, .jpeg, .png</value>
+  </data>
+  <data name="USER_00009" xml:space="preserve">
+    <value>El archivo no puede estar vacío</value>
+  </data>
+  <data name="USER_00010" xml:space="preserve">
+    <value>El tamaño del archivo no puede ser mayor a 1 MB</value>
+  </data>
+  <data name="LOGOUT_00001" xml:space="preserve">
+    <value>No existe una sesión iniciada</value>
+  </data>
+  <data name="MPASS_0001" xml:space="preserve">
+    <value>El campo contraseña actual no puede estar vacía</value>
+  </data>
+  <data name="MPASS_0002" xml:space="preserve">
+    <value>El campo nueva contraseña no puede estar vacía</value>
+  </data>
+  <data name="MPASS_0003" xml:space="preserve">
+    <value>El campo confirmar contraseña no puede estar vacía</value>
+  </data>
+  <data name="MPASS_0004" xml:space="preserve">
+    <value>Las contraseñas no coinciden</value>
+  </data>
+  <data name="MPASS_0005" xml:space="preserve">
+    <value>Contraseña incorrecta</value>
+  </data>
+  <data name="MCLAVE_0001" xml:space="preserve">
+    <value>El campo clave actual no puede estar vacía</value>
+  </data>
+  <data name="MCLAVE_0002" xml:space="preserve">
+    <value>El campo nueva clave no puede estar vacía</value>
+  </data>
+  <data name="MCLAVE_0003" xml:space="preserve">
+    <value>El campo confirmar clave no puede estar vacía</value>
+  </data>
+  <data name="MCLAVE_0004" xml:space="preserve">
+    <value>Las claves no coinciden</value>
+  </data>
+  <data name="MCLAVE_0005" xml:space="preserve">
+    <value>Clave incorrecta</value>
+  </data>
+  <data name="ESPE_0001" xml:space="preserve">
+    <value>Especialidad no encontrada</value>
+  </data>
+  <data name="CAT_0001" xml:space="preserve">
+    <value>Especialidad no encontrada</value>
+  </data>
+  <data name="CAT_0002" xml:space="preserve">
+    <value>Estado civil no encontrada</value>
+  </data>
+  <data name="CAT_0003" xml:space="preserve">
+    <value>Flujo vaginal no encontrada</value>
+  </data>
+  <data name="CAT_0004" xml:space="preserve">
+    <value>Motivo de alta no encontrada</value>
+  </data>
+  <data name="CAT_0005" xml:space="preserve">
+    <value>Servicio no encontrada</value>
+  </data>
+  <data name="CAT_0006" xml:space="preserve">
+    <value>Tipo de anticonceptivo no encontrada</value>
+  </data>
+  <data name="CAT_0007" xml:space="preserve">
+    <value>El campo descripción no puede estar vacia</value>
+  </data>
+  <data name="CAT_0008" xml:space="preserve">
+    <value>Fisioterapeuta no encontrado</value>
+  </data>
+  <data name="CAT_0009" xml:space="preserve">
+    <value>Patologia no encontrado</value>
+  </data>
+  <data name="FIS_0001" xml:space="preserve">
+    <value>Fisioterapeuta no encontrado</value>
+  </data>
+  <data name="FIS_0002" xml:space="preserve">
+    <value>El campo nombre no puede estar vacio</value>
+  </data>
+  <data name="FIS_0003" xml:space="preserve">
+    <value>El campo correo no puede estar vacio</value>
+  </data>
+  <data name="FIS_0004" xml:space="preserve">
+    <value>El correo no tiene un formato valido o es incorrecto</value>
+  </data>
+  <data name="FIS_0005" xml:space="preserve">
+    <value>El campo telefono no puede estar vacio</value>
+  </data>
+  <data name="FIS_0006" xml:space="preserve">
+    <value>El telefono no tiene un formato valido o es incorrecto</value>
+  </data>
+  <data name="FIS_0007" xml:space="preserve">
+    <value>El campo especialidad no puede estar vacio</value>
+  </data>
+  <data name="FIS_0008" xml:space="preserve">
+    <value>El campo del id del fisioterapeuta no puede estar vacio</value>
+  </data>
+  <data name="FIS_0009" xml:space="preserve">
+    <value>Fisioterapeuta no disponible</value>
+  </data>
+  <data name="PACI_0001" xml:space="preserve">
+    <value>El campo del id del paciente no puede estar vacio</value>
+  </data>
+  <data name="PACI_0002" xml:space="preserve">
+    <value>El campo nombre no puede estar vacio</value>
+  </data>
+  <data name="PACI_0003" xml:space="preserve">
+    <value>El campo apellido no puede estar vacio</value>
+  </data>
+  <data name="PACI_0004" xml:space="preserve">
+    <value>El campo institucion no puede estar vacio</value>
+  </data>
+  <data name="PACI_0005" xml:space="preserve">
+    <value>El campo domicilio no puede estar vacio</value>
+  </data>
+  <data name="PACI_0006" xml:space="preserve">
+    <value>El campo ocupacion no puede estar vacio</value>
+  </data>
+  <data name="PACI_0007" xml:space="preserve">
+    <value>El campo telefono no puede estar vacio</value>
+  </data>
+  <data name="PACI_0008" xml:space="preserve">
+    <value>El telefono no tiene un formato valido o es incorrecto</value>
+  </data>
+  <data name="PACI_0009" xml:space="preserve">
+    <value>El campo sexo no puede estar vacio</value>
+  </data>
+  <data name="PACI_0010" xml:space="preserve">
+    <value>El campo tipo de paciente no puede estar vacio</value>
+  </data>
+  <data name="PACI_0011" xml:space="preserve">
+    <value>El campo edad no puede estar vacio</value>
+  </data>
+  <data name="PACI_0012" xml:space="preserve">
+    <value>El campo codigo postal no puede estar vacio</value>
+  </data>
+  <data name="PACI_0013" xml:space="preserve">
+    <value>El campo estado civil no puede estar vacio</value>
+  </data>
+  <data name="PACI_0014" xml:space="preserve">
+    <value>El campo fisioterapeuta no puede estar vacio</value>
+  </data>
+  <data name="PACI_0015" xml:space="preserve">
+    <value>La edad no cumple con los requisitos</value>
+  </data>
+  <data name="PACI_0016" xml:space="preserve">
+    <value>Paciente no encontrado</value>
+  </data>
+  <data name="PACI_0017" xml:space="preserve">
+    <value>No se encontro el paciente o el paciente esta dado de baja</value>
+  </data>
+  <data name="EXP_0001" xml:space="preserve">
+    <value>Exploracion no encontrada</value>
+  </data>
+  <data name="EXP_0002" xml:space="preserve">
+    <value>El campo fr no puede estar vacio</value>
+  </data>
+  <data name="EXP_0003" xml:space="preserve">
+    <value>El campo fc no puede estar vacio</value>
+  </data>
+  <data name="EXP_0004" xml:space="preserve">
+    <value>El campo temperatura no puede estar vacio</value>
+  </data>
+  <data name="EXP_0005" xml:space="preserve">
+    <value>El campo peso no puede estar vacio</value>
+  </data>
+  <data name="EXP_0006" xml:space="preserve">
+    <value>El campo estatura no puede estar vacio</value>
+  </data>
+  <data name="EXP_0007" xml:space="preserve">
+    <value>El campo imc no puede estar vacio</value>
+  </data>
+  <data name="EXP_0008" xml:space="preserve">
+    <value>El campo indice cintura cadera no puede estar vacio</value>
+  </data>
+  <data name="EXP_0009" xml:space="preserve">
+    <value>El campo saturacion de oxigeno no puede estar vacio</value>
+  </data>
+  <data name="EXP_0010" xml:space="preserve">
+    <value>El campo presion arterial no puede estar vacio</value>
+  </data>
+  <data name="MAP_0001" xml:space="preserve">
+    <value>Mapa corporal no encontrado</value>
+  </data>
+  <data name="MAP_0002" xml:space="preserve">
+    <value>El campo valores no puede estar vacio</value>
+  </data>
+  <data name="MAP_0003" xml:space="preserve">
+    <value>El campo rango de dolor no puede estar vacio</value>
+  </data>
+  <data name="MAP_0004" xml:space="preserve">
+    <value>El campo notas no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0001" xml:space="preserve">
+    <value>Diagnostico no encontrado</value>
+  </data>
+  <data name="DIAG_0002" xml:space="preserve">
+    <value>El campo descripcion no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0003" xml:space="preserve">
+    <value>El campo refiere no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0004" xml:space="preserve">
+    <value>El campo categoria no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0005" xml:space="preserve">
+    <value>El campo diagnostico previo no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0006" xml:space="preserve">
+    <value>El campo terapeutica empleada no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0007" xml:space="preserve">
+    <value>El campo diagnostico funcional no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0008" xml:space="preserve">
+    <value>El campo padecimiento actual no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0009" xml:space="preserve">
+    <value>El campo inspeccion no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0010" xml:space="preserve">
+    <value>El campo palpitacion no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0011" xml:space="preserve">
+    <value>El campo movilidad no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0012" xml:space="preserve">
+    <value>El campo estudios complementarios no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0013" xml:space="preserve">
+    <value>El campo diagnostico nosologico no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0014" xml:space="preserve">
+    <value>Ya existe un diagnostico activo</value>
+  </data>
+  <data name="DIAG_0015" xml:space="preserve">
+    <value>El campo id del diagnostico no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0016" xml:space="preserve">
+    <value>El campo diagnostico inicial no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0017" xml:space="preserve">
+    <value>El campo diagnostico final no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0018" xml:space="preserve">
+    <value>El campo frecuencia de tratamiento no puede estar vacio</value>
+  </data>
+  <data name="DIAG_0019" xml:space="preserve">
+    <value>El campo motivo de alta no puede estar vacio</value>
+  </data>
+  <data name="PROG_0001" xml:space="preserve">
+    <value>Programa fisioterapeutico no encontrado</value>
+  </data>
+  <data name="PROG_0002" xml:space="preserve">
+    <value>El campo corto plazo no puede estar vacio</value>
+  </data>
+  <data name="PROG_0003" xml:space="preserve">
+    <value>El campo mediano plazo no puede estar vacio</value>
+  </data>
+  <data name="PROG_0004" xml:space="preserve">
+    <value>El campo largo plazo no puede estar vacio</value>
+  </data>
+  <data name="PROG_0005" xml:space="preserve">
+    <value>El campo tratamiento fisioterapeutico  no puede estar vacio</value>
+  </data>
+  <data name="PROG_0006" xml:space="preserve">
+    <value>El campo sugerencias no puede estar vacio</value>
+  </data>
+  <data name="PROG_0007" xml:space="preserve">
+    <value>El campo pronostico no puede estar vacio</value>
+  </data>
+  <data name="REV_0001" xml:space="preserve">
+    <value>Revision no encontrada</value>
+  </data>
+  <data name="REV_0002" xml:space="preserve">
+    <value>El campo notas no puede estar vacio</value>
+  </data>
+  <data name="REV_0003" xml:space="preserve">
+    <value>El campo folio de pago no puede estar vacio</value>
+  </data>
+  <data name="REV_0004" xml:space="preserve">
+    <value>El campo servicio id no puede estar vacio</value>
+  </data>
+  <data name="EXPE_0001" xml:space="preserve">
+    <value>Expediente no encontrado</value>
+  </data>
+  <data name="EXPE_0002" xml:space="preserve">
+    <value>El campo tipo de interrogatorio no puede estar vacio</value>
+  </data>
+  <data name="CITA_0001" xml:space="preserve">
+    <value>El campo fecha no puede estar vacio</value>
+  </data>
+  <data name="CITA_0002" xml:space="preserve">
+    <value>El campo hora no puede estar vacio</value>
+  </data>
+  <data name="CITA_0003" xml:space="preserve">
+    <value>El campo motivo no puede estar vacio</value>
+  </data>
+  <data name="CITA_0004" xml:space="preserve">
+    <value>El campo id de la cita no puede estar vacio</value>
+  </data>
+  <data name="CITA_0005" xml:space="preserve">
+    <value>Cita no encontrada</value>
+  </data>
+  <data name="HERE_0001" xml:space="preserve">
+    <value>El campo padres no puede estar vacio</value>
+  </data>
+  <data name="HERE_0002" xml:space="preserve">
+    <value>El campo padres vivos no puede estar vacio</value>
+  </data>
+  <data name="HERE_0003" xml:space="preserve">
+    <value>El campo hermanos no puede estar vacio</value>
+  </data>
+  <data name="HERE_0004" xml:space="preserve">
+    <value>El campo hermanos vivos no puede estar vacio</value>
+  </data>
+  <data name="HERE_0005" xml:space="preserve">
+    <value>El campo hijos no puede estar vacio</value>
+  </data>
+  <data name="HERE_0006" xml:space="preserve">
+    <value>El campo hijos vivos no puede estar vacio</value>
+  </data>
+  <data name="ANTE_0001" xml:space="preserve">
+    <value>El campo antecedentes patologicos no puede estar vacio</value>
+  </data>
+  <data name="ANTE_0002" xml:space="preserve">
+    <value>El campo medio laboral no puede estar vacio</value>
+  </data>
+  <data name="ANTE_0003" xml:space="preserve">
+    <value>El campo medio socio cultural no puede estar vacio</value>
+  </data>
+  <data name="ANTE_0004" xml:space="preserve">
+    <value>El campo medio fisico ambiental no puede estar vacio</value>
+  </data>
+  <data name="GINE_0001" xml:space="preserve">
+    <value>El campo id del flujo vaginal no puede estar vacio</value>
+  </data>
+  <data name="GINE_0002" xml:space="preserve">
+    <value>El campo id del tipo anticonceptivo no puede estar vacio</value>
+  </data>
+  <data name="GRAL_0001" xml:space="preserve">
+    <value>La fecha proporcionada ya paso</value>
+  </data>
+  <data name="GRAL_0002" xml:space="preserve">
+    <value>La hora proporcionada ya paso</value>
+  </data>
+  <data name="GRAL_0003" xml:space="preserve">
+    <value>No se puede agendar mas de una cita al dia</value>
+  </data>
+  <data name="GRAL_0004" xml:space="preserve">
+    <value>No se puede agendar mas de 3 citas a la semana</value>
+  </data>
+  <data name="GRAL_0005" xml:space="preserve">
+    <value>No se puede agendar mas de 3 citas simultaneas</value>
+  </data>
+  <data name="GRAL_0006" xml:space="preserve">
+    <value>El fisioterapeuta tiene una cita agendada en la misma hora</value>
+  </data>
+</root>

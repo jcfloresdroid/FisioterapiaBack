@@ -1,0 +1,1221 @@
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.Development.json
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.json
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.exe
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.deps.json
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.runtimeconfig.json
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.pdb
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Humanizer.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.Data.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ZstdSharp.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.build.json
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.development.json
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Presentation.props
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\scopedcss\bundle\Presentation.styles.css
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.CopyComplete
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.pdb
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.CodeDom.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.xml
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Scrypt.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.dll
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.pdb
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.xml
+D:\Fisiolabs\FisioLabs Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.xml
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.Development.json
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.json
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.exe
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.deps.json
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.runtimeconfig.json
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.pdb
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.xml
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\dotenv.net.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Google.Protobuf.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Humanizer.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.Data.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.CodeDom.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ZstdSharp.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.pdb
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.xml
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.build.json
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.development.json
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Presentation.props
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\scopedcss\bundle\Presentation.styles.css
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.CopyComplete
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.xml
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.pdb
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+D:\FisioLabs\BackEnd\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.staticwebassets.runtime.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.Development.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.staticwebassets.runtime.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.exe
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.deps.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.runtimeconfig.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.pdb
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.xml
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\dotenv.net.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Google.Protobuf.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Humanizer.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.Data.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.CodeDom.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ZstdSharp.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.pdb
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.xml
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.build.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.development.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Presentation.props
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\scopedcss\bundle\Presentation.styles.css
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.xml
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.pdb
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+D:\FisioNexus\Back-End\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.json
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.staticwebassets.runtime.json
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.exe
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.runtimeconfig.json
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.xml
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.ReDoc.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.pdb
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.xml
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Presentation.props
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\scopedcss\bundle\Presentation.styles.css
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.xml
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\Hashids.net.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\ferna\Music\Fisio Software\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.json
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.staticwebassets.runtime.json
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.exe
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.runtimeconfig.json
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.xml
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Hashids.net.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Humanizer.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.ReDoc.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.pdb
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.xml
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Presentation.props
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\scopedcss\bundle\Presentation.styles.css
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.xml
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+C:\Users\lopez\Documents\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\itextsharp.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.json
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.staticwebassets.runtime.json
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.exe
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.runtimeconfig.json
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.xml
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Hashids.net.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Humanizer.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\itextsharp.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.ReDoc.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.pdb
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.xml
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Presentation.props
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\scopedcss\bundle\Presentation.styles.css
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.xml
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
+C:\Users\lopez\Documents\Proyectos\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.json
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.staticwebassets.runtime.json
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.exe
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.runtimeconfig.json
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.xml
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Hashids.net.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Humanizer.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\itextsharp.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.ReDoc.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.pdb
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.xml
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Presentation.props
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\scopedcss\bundle\Presentation.styles.css
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.xml
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
+C:\Users\mike1\OneDrive\Documentos\FisioSoftware\fisiolabs_backend\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.Development.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\appsettings.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.staticwebassets.runtime.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.staticwebassets.endpoints.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.exe
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.deps.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.runtimeconfig.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.pdb
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Presentation.xml
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\dotenv.net.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Hashids.net.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Humanizer.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\itextsharp.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.Data.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.ReDoc.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.CodeDom.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ZstdSharp.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.pdb
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\bin\Debug\net8.0\Core.xml
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\scopedcss\bundle\Presentation.styles.css
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.build.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.development.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.build.Presentation.props
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.xml
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.pdb
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
+D:\Apps\Fisiolabs\Backend\fisiolabs_backend\Presentation\obj\Debug\net8.0\ref\Presentation.dll

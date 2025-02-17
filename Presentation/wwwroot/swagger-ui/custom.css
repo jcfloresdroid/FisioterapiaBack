@@ -1,0 +1,43 @@
+/* Centrar el texto del nombre del parámetro */
+.parameter__name {
+    text-align: center;
+}
+
+/* Agregar margen derecho al nombre del parámetro */
+.parameter__name .parameter__text {
+    margin-right: 20px; /* Ajusta el valor según tus necesidades */
+}
+
+/* Estilo para el cuadro de descripción del parámetro */
+.parameter__description {
+    font-style: italic;
+    color: #666;
+}
+
+/* Quita el Text/Plain Aplication/Json el selector */
+.swagger-ui .response-controls {
+    display: none !important;
+}
+
+/* Quita los links de la respuesta */
+.swagger-ui .response-col_links{
+    display: none !important;
+}
+
+.swagger-ui .response-col_status{
+    padding: 26px 0 !important;
+}
+
+/* Solo era un bloque que tenia margin */
+blockquote{
+    margin: 0 !important;
+}
+
+/* Quita el Scheme */
+.swagger-ui section.models.is-open{
+    display: none !important;
+}
+
+.swagger-ui table tbody tr td:first-of-type{
+    padding: 26px 0 !important;
+}

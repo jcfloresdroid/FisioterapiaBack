@@ -1,0 +1,6 @@
+# Archivos de configuración de la aplicación
+#Presentation/appsettings.json
+#Presentation/appsettings.Development.json
+
+# Configuraciones y archivos específicos del entorno
+#Presentation/.env
