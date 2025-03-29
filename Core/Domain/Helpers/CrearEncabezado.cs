@@ -8,17 +8,21 @@ public class CrearEncabezado : PdfPageEventHelper
     public CrearEncabezado()
     {
     }
+    
+    private static string rutaBase = Directory.GetCurrentDirectory();
+    private static string uac = Path.Combine(rutaBase, "wwwroot", "Logos", "uac.png");
+    private static string enf = Path.Combine(rutaBase, "wwwroot", "Logos", "Enfermeria.png");
 
     public override void OnEndPage(PdfWriter writer, Document document)
     {
         PdfContentByte cb = writer.DirectContent;
         
         // Set up the image
-        Image img = Image.GetInstance("https://res.cloudinary.com/doi0znv2t/image/upload/v1724549566/Utils/UACAM.png");
-        Image img2 = Image.GetInstance("https://res.cloudinary.com/doi0znv2t/image/upload/v1724549566/Utils/Enfermeria.png");
+        Image img = Image.GetInstance(uac);
+        Image img2 = Image.GetInstance(enf);
         
-        img.ScaleAbsolute(251, 35);
-        img.SetAbsolutePosition(document.LeftMargin, document.PageSize.Height - 65);
+        img.ScaleAbsolute(70, 70);
+        img.SetAbsolutePosition(document.LeftMargin, document.PageSize.Height - 90);
 
         img2.ScaleAbsolute(70, 70);
         img2.SetAbsolutePosition(document.PageSize.Width - 80, document.PageSize.Height - 85);

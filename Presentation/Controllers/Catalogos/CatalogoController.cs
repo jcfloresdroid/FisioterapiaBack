@@ -24,7 +24,6 @@ public class CatalogoController : ControllerBase
     /// <summary>
     /// Catalogo de especialidades
     /// </summary>
-    [AllowAnonymous]
     [HttpGet("Especialidades")]
     public async Task<List<GetEspecialidadesResponse>> getEspecialidades([FromQuery] bool onlyActive)
     {

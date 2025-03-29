@@ -13,7 +13,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowSpecificOrigin",
         builder =>
         {
-            builder.WithOrigins("http://clinicadefisioterapia.uacam.mx", "http://localhost:5173")
+            builder.WithOrigins("http://localhost:5173")
                 .AllowAnyHeader()
                 .AllowAnyMethod()
                 .AllowCredentials();
@@ -39,9 +39,6 @@ app.UseSwaggerUI(c => {
     // Incluir hoja de estilos personalizada
     c.InjectStylesheet("/swagger-ui/custom.css");
 });
-
-// Middleware para manejar excepciones (error 500)
-app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseHttpsRedirection();
 

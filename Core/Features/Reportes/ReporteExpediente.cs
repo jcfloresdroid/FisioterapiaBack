@@ -163,7 +163,6 @@ public class ReporteExpedienteHandler : IRequestHandler<ReporteExpediente, Repor
         _utilPdf.CellEdits(datosGenerales, $"{pac.Nombre} {pac.Apellido}", fontResponse, 11, 1, 90, false, false, inferior);
         _utilPdf.CellEdits(datosGenerales, diag.FechaInicio.ToString("dd/MM/yyyy"), fontResponse, 11, 1, 90, false, false, inferior);
         //Segunda fila
-        _utilPdf.CellEdits(datosGenerales, diag.Patologias.Descripcion, fontResponse, 11, 3, 70, false, true, inferior);
         _utilPdf.CellEdits(datosGenerales, "Diagnóstico inicial:", baseFont, 14, 1, 20, true, true, superior);
         _utilPdf.CellEdits(datosGenerales, "Fisioterapeuta:", baseFont, 14, 1, 20, true, true, superior);
         _utilPdf.CellEdits(datosGenerales, "Frecuencia de tratamiento:", baseFont, 14, 1, 20, true, true, superior);
@@ -931,7 +930,7 @@ public class ReporteExpedienteHandler : IRequestHandler<ReporteExpediente, Repor
         _utilPdf.AddCellWithOutBorderButton(datosGenerales, "Teléfono / Celular:", baseFont, 14, 2, true);
         _utilPdf.AddCellWithOutBorderButton(datosGenerales, "Responsable en caso de menor o adulto mayor:", baseFont, 14, 2, true);
         _utilPdf.AddCellWithOutBorderTop(datosGenerales, pac.Telefono, fontResponse, 10, 2, true);
-        _utilPdf.AddCellWithOutBorderTop(datosGenerales, exp.TipoInterrogatorio ? exp.Responsable : "", fontResponse, 10, 2, true);
+        _utilPdf.AddCellWithOutBorderTop(datosGenerales, !exp.TipoInterrogatorio ? exp.Responsable : "", fontResponse, 10, 2, true);
         
         return datosGenerales;
     }

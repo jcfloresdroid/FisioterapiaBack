@@ -26,8 +26,8 @@ public static class FormatDate
         DateTime utcNow = DateTime.UtcNow;
         
         // Obtener la hora local en Campeche (Central Standard Time)
-        TimeZoneInfo campecheTimeZone = TimeZoneInfo.FindSystemTimeZoneById("America/Mexico_City"); //Distribuciones Linux
-        //TimeZoneInfo campecheTimeZone = TimeZoneInfo.FindSystemTimeZoneById("Central Standard Time"); //Distribuciones Windows
+        //TimeZoneInfo campecheTimeZone = TimeZoneInfo.FindSystemTimeZoneById("America/Mexico_City"); //Distribuciones Linux
+        TimeZoneInfo campecheTimeZone = TimeZoneInfo.FindSystemTimeZoneById("Central Standard Time"); //Distribuciones Windows
         DateTime campecheTime = TimeZoneInfo.ConvertTimeFromUtc(utcNow, campecheTimeZone);
 
         return campecheTime;

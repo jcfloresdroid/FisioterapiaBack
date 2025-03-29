@@ -12,14 +12,14 @@ namespace Core.Features.Diagnostico.command;
 
 public record ExplorationPost()
 {
-    public int Fr { get; set; }
-    public int Fc { get; set; }
-    public float Temperatura { get; set; }
-    public float Peso { get; set; }
-    public float Estatura { get; set; }
-    public float Imc { get; set; }
-    public float IndiceCinturaCadera { get; set; }
-    public float SaturacionOxigeno { get; set; }
+    public int? Fr { get; set; }
+    public int? Fc { get; set; }
+    public float? Temperatura { get; set; }
+    public float? Peso { get; set; }
+    public float? Estatura { get; set; }
+    public float? Imc { get; set; }
+    public float? IndiceCinturaCadera { get; set; }
+    public float? SaturacionOxigeno { get; set; }
     public string PresionArterial { get; set; }
 }
 
@@ -164,14 +164,14 @@ public class PostDiagnosticHanlder : IRequestHandler<GeneralDiagnosticPost>
                 /* Creamos la exploracion Fisica */
                 var exploracion = new ExploracionFisica()
                 {
-                    Fr = request.Exploration.Fr,
-                    Fc = request.Exploration.Fc,
-                    Temperatura = request.Exploration.Temperatura,
-                    Peso = request.Exploration.Peso,
-                    Estatura = request.Exploration.Estatura,
-                    Imc = request.Exploration.Imc,
-                    IndiceCinturaCadera = request.Exploration.IndiceCinturaCadera,
-                    SaturacionOxigeno = request.Exploration.SaturacionOxigeno,
+                    Fr = (int)(request.Exploration.Fr == null ? 0 : request.Exploration.Fr),
+                    Fc = (int)(request.Exploration.Fc == null ? 0 : request.Exploration.Fc),
+                    Temperatura = (float)(request.Exploration.Temperatura == null ? 0 : request.Exploration.Temperatura),
+                    Peso = (float)(request.Exploration.Peso == null ? 0 : request.Exploration.Peso),
+                    Estatura = (float)(request.Exploration.Estatura == null ? 0 : request.Exploration.Estatura),
+                    Imc = (float)(request.Exploration.Imc == null ? 0 : request.Exploration.Imc),
+                    IndiceCinturaCadera = (float)(request.Exploration.IndiceCinturaCadera == null ? 0 : request.Exploration.IndiceCinturaCadera),
+                    SaturacionOxigeno = (float)(request.Exploration.SaturacionOxigeno == null ? 0 : request.Exploration.SaturacionOxigeno),
                     PresionArterial = request.Exploration.PresionArterial
                 };
                 

@@ -1,7 +1,10 @@
+using System.Text.RegularExpressions;
 using Application.Core.Domain.Exceptions;
 using Core.Domain.Exceptions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
+using Microsoft.EntityFrameworkCore;
+using MySql.Data.MySqlClient;
 
 namespace Presentation.Filters;
 
@@ -48,6 +51,17 @@ public class ApiExceptionFilterAttribute : ExceptionFilterAttribute
                 _Logger.LogDebug(context.Exception, "{message} en {@Result}", context.Exception.Message,
                     context.Result);
                 break;
+            
+            case DbUpdateException dbUpdateException:
+                HandleDbUpdateException(context, dbUpdateException);
+                _Logger.LogDebug(context.Exception, "{message} en {@Result}", context.Exception.Message,
+                    context.Result);
+                break;
+            
+            default:
+                HandleUnknownException(context);
+                _Logger.LogError(context.Exception, "{message}", context.Exception.Message);
+                break;
         }
 
         base.OnException(context);
@@ -55,33 +69,32 @@ public class ApiExceptionFilterAttribute : ExceptionFilterAttribute
 
     private void HandleValidationException(ExceptionContext context, ValidationException exception)
     {
-        ValidationProblemDetails details;
-
-        if (exception.Errores is not null)
+        if (exception.Error is not null)
         {
-            details = new ValidationProblemDetails(exception.Errores)
+            var details = new ProblemDetails
             {
-                Title = "Uno o más errores de validación han ocurrido.",
-                Type = "https://tools.ietf.org/html/rfc7231#section-6.5.1"
+                Title = "Error de validación",
+                Type = "https://tools.ietf.org/html/rfc7231#section-6.5.1",
+                Detail = exception.Error,
+                Status = StatusCodes.Status400BadRequest
             };
 
             context.Result = new BadRequestObjectResult(details);
-
-            context.ExceptionHandled = true;
         }
         else
         {
-            details = new ValidationProblemDetails
+            var details = new ProblemDetails
             {
                 Title = "Uno o más errores de validación han ocurrido.",
                 Type = "https://tools.ietf.org/html/rfc7231#section-6.5.1",
                 Detail = exception.Message,
+                Status = StatusCodes.Status400BadRequest
             };
 
             context.Result = new BadRequestObjectResult(details);
-
-            context.ExceptionHandled = true;
         }
+
+        context.ExceptionHandled = true;
     }
     
     private void HandleNotFoundException(ExceptionContext context, NotFoundException exception)
@@ -152,6 +165,57 @@ public class ApiExceptionFilterAttribute : ExceptionFilterAttribute
         context.Result = new ObjectResult(details)
         {
             StatusCode = StatusCodes.Status403Forbidden
+        };
+
+        context.ExceptionHandled = true;
+    }
+    
+    private void HandleDbUpdateException(ExceptionContext context, DbUpdateException exception)
+    {
+        // Verificar si es un error de clave única el 1062 es el código de error de MySQL
+        if (exception.InnerException is MySqlException sqlException && sqlException.Number == 1062)
+        {
+            var match = Regex.Match(sqlException.Message, @"for key '(.*?)'"); // Extrae el nombre del índice
+
+            string field = "desconocido";
+            if (match.Success)
+            {
+                string fullKey = match.Groups[1].Value;
+                string[] parts = fullKey.Split('_'); // Divide el índice en partes por el carácter '_'
+                field = parts.Last(); // Toma la última parte del arreglo
+            }
+
+            var details = new ProblemDetails
+            {
+                Title = "Violación de restricción de clave única",
+                Type = "https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.1",
+                Status = StatusCodes.Status400BadRequest,
+                Detail = $"El dato ingresado en el campo {field} ya existe."
+            };
+
+            context.Result = new BadRequestObjectResult(details);
+            context.ExceptionHandled = true;
+        }
+        else
+        {
+            // Manejar otros errores de DbUpdateException
+            HandleUnknownException(context);
+        }
+    }
+
+    private void HandleUnknownException(ExceptionContext context)
+    {
+        var details = new ProblemDetails
+        {
+            Status = StatusCodes.Status500InternalServerError,
+            Title = "Error interno del servidor",
+            Type = "https://datatracker.ietf.org/doc/html/rfc7231#section-6.6.1",
+            Detail = "Ha ocurrido un error al procesar la solicitud."
+        };
+
+        context.Result = new ObjectResult(details)
+        {
+            StatusCode = StatusCodes.Status500InternalServerError
         };
 
         context.ExceptionHandled = true;

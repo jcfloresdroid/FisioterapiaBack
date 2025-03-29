@@ -1,508 +1,504 @@
 {
   "Files": [
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\Estatura.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\Estatura.png",
       "PackagePath": "staticwebassets\\ExploracionFisica\\Estatura.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\FreCardiaca.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\FreCardiaca.png",
       "PackagePath": "staticwebassets\\ExploracionFisica\\FreCardiaca.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\FreRespiratoria.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\FreRespiratoria.png",
       "PackagePath": "staticwebassets\\ExploracionFisica\\FreRespiratoria.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\ICC.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\ICC.png",
       "PackagePath": "staticwebassets\\ExploracionFisica\\ICC.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\IMC.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\IMC.png",
       "PackagePath": "staticwebassets\\ExploracionFisica\\IMC.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\Oxigeno.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\Oxigeno.png",
       "PackagePath": "staticwebassets\\ExploracionFisica\\Oxigeno.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\Peso.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\Peso.png",
       "PackagePath": "staticwebassets\\ExploracionFisica\\Peso.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\Presion.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\Presion.png",
       "PackagePath": "staticwebassets\\ExploracionFisica\\Presion.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\Temperatura.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\ExploracionFisica\\Temperatura.png",
       "PackagePath": "staticwebassets\\ExploracionFisica\\Temperatura.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\AntebrazoAnteriorDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\AntebrazoAnteriorDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\AntebrazoAnteriorDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\AntebrazoAnteriorIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\AntebrazoAnteriorIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\AntebrazoAnteriorIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\BicepDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\BicepDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\BicepDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\BicepIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\BicepIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\BicepIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\Cabeza.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\Cabeza.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\Cabeza.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\DeltoidesAnteriorDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\DeltoidesAnteriorDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\DeltoidesAnteriorDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\DeltoidesAnteriorIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\DeltoidesAnteriorIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\DeltoidesAnteriorIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\EmpeineDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\EmpeineDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\EmpeineDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\EmpeineIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\EmpeineIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\EmpeineIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\ManoDerecha.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\ManoDerecha.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\ManoDerecha.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\ManoIzquierda.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\ManoIzquierda.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\ManoIzquierda.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\MusloAnteriorDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\MusloAnteriorDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\MusloAnteriorDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\MusloAnteriorIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\MusloAnteriorIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\MusloAnteriorIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\MuñecaDerecha.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\MuñecaDerecha.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\MuñecaDerecha.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\MuñecaIzquierda.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\MuñecaIzquierda.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\MuñecaIzquierda.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\PechoDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\PechoDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\PechoDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\PechoIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\PechoIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\PechoIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\Pelvis.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\Pelvis.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\Pelvis.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\RegionAbdominal.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\RegionAbdominal.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\RegionAbdominal.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\RegiónCervicalAnterior.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\RegiónCervicalAnterior.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\RegiónCervicalAnterior.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\RodillaAnteriorDerecha.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\RodillaAnteriorDerecha.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\RodillaAnteriorDerecha.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\RodillaAnteriorIzquierda.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\RodillaAnteriorIzquierda.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\RodillaAnteriorIzquierda.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\TibialDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\TibialDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\TibialDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\TibialIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\TibialIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\TibialIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\TobilloDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\TobilloDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\TobilloDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\TobilloIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasAnterior\\TobilloIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasAnterior\\TobilloIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\Codo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\Codo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasLateral\\Codo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\DeltoidesLateral.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\DeltoidesLateral.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasLateral\\DeltoidesLateral.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\GluteoLateral.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\GluteoLateral.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasLateral\\GluteoLateral.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\RegionCervicalLateral.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\RegionCervicalLateral.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasLateral\\RegionCervicalLateral.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\RegionIliaca.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\RegionIliaca.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasLateral\\RegionIliaca.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\RegionMandibular.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\RegionMandibular.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasLateral\\RegionMandibular.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\RegionTemporal.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\RegionTemporal.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasLateral\\RegionTemporal.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\RegionToracicaLateral.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasLateral\\RegionToracicaLateral.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasLateral\\RegionToracicaLateral.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\AntebrazoPosteriorDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\AntebrazoPosteriorDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\AntebrazoPosteriorDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\AntebrazoPosteriorIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\AntebrazoPosteriorIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\AntebrazoPosteriorIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\CervicalPosterior.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\CervicalPosterior.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\CervicalPosterior.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\GluteoDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\GluteoDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\GluteoDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\GluteoIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\GluteoIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\GluteoIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\IsquiotibialDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\IsquiotibialDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\IsquiotibialDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\IsquiotibialIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\IsquiotibialIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\IsquiotibialIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\Occipital.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\Occipital.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\Occipital.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\PantorrillaDerecha.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\PantorrillaDerecha.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\PantorrillaDerecha.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\PantorrillaIzquierda.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\PantorrillaIzquierda.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\PantorrillaIzquierda.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\RegionEscapularDerecha.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\RegionEscapularDerecha.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\RegionEscapularDerecha.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\RegionEscapularIzquierda.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\RegionEscapularIzquierda.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\RegionEscapularIzquierda.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\RegionLumbar.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\RegionLumbar.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\RegionLumbar.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\RegionPoplipteaDerecha.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\RegionPoplipteaDerecha.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\RegionPoplipteaDerecha.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\RegionPoplipteaIzquierda.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\RegionPoplipteaIzquierda.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\RegionPoplipteaIzquierda.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\RegionToracica.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\RegionToracica.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\RegionToracica.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\TalonDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\TalonDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\TalonDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\TalonIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\TalonIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\TalonIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\TendonAquilesDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\TendonAquilesDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\TendonAquilesDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\TendonAquilesIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\TendonAquilesIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\TendonAquilesIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\TricepDerecho.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\TricepDerecho.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\TricepDerecho.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\TricepIzquierdo.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\AreasPosterior\\TricepIzquierdo.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\AreasPosterior\\TricepIzquierdo.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\GeneralMujer.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\GeneralMujer.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\GeneralMujer.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\Global.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MapaCorporal\\Global.png",
       "PackagePath": "staticwebassets\\MapaCorporal\\Global.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\AntebrazoAnteriorDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\AntebrazoAnteriorDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\AntebrazoAnteriorDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\AntebrazoAnteriorIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\AntebrazoAnteriorIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\AntebrazoAnteriorIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\BicepDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\BicepDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\BicepDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\BicepIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\BicepIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\BicepIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\CabezaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\CabezaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\CabezaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\DeltoidesAnteriorDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\DeltoidesAnteriorDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\DeltoidesAnteriorDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\DeltoidesAnteriorIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\DeltoidesAnteriorIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\DeltoidesAnteriorIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\EmpeineDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\EmpeineDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\EmpeineDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\EmpeineIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\EmpeineIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\EmpeineIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\ManoDerechaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\ManoDerechaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\ManoDerechaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\ManoIzquierdaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\ManoIzquierdaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\ManoIzquierdaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\MusloAnteriorDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\MusloAnteriorDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\MusloAnteriorDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\MusloAnteriorIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\MusloAnteriorIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\MusloAnteriorIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\MuñecaDerechaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\MuñecaDerechaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\MuñecaDerechaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\MuñecaIzquierdaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\MuñecaIzquierdaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\MuñecaIzquierdaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\PechoDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\PechoDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\PechoDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\PechoIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\PechoIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\PechoIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\PelvisM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\PelvisM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\PelvisM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\RegionAbdominalM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\RegionAbdominalM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\RegionAbdominalM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\RegionCervicalAnteriorM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\RegionCervicalAnteriorM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\RegionCervicalAnteriorM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\RodillaDerechaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\RodillaDerechaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\RodillaDerechaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\RodillaIzquierdaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\RodillaIzquierdaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\RodillaIzquierdaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\TibialDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\TibialDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\TibialDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\TibialIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\TibialIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\TibialIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\TobilloDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\TobilloDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\TobilloDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\TobilloIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasAnterior\\TobilloIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasAnterior\\TobilloIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\CodoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\CodoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasLateral\\CodoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\DeltoidesLateralM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\DeltoidesLateralM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasLateral\\DeltoidesLateralM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\GluteoLateralM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\GluteoLateralM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasLateral\\GluteoLateralM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\RegionCervicalLateralM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\RegionCervicalLateralM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasLateral\\RegionCervicalLateralM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\RegionIliacaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\RegionIliacaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasLateral\\RegionIliacaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\RegionMandibularM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\RegionMandibularM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasLateral\\RegionMandibularM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\RegionTemporalM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\RegionTemporalM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasLateral\\RegionTemporalM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\RegionToracicaLateralM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasLateral\\RegionToracicaLateralM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasLateral\\RegionToracicaLateralM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\AntebrazoPosteriorDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\AntebrazoPosteriorDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\AntebrazoPosteriorDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\AntebrazoPosteriorIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\AntebrazoPosteriorIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\AntebrazoPosteriorIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\CervicalPosteriorM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\CervicalPosteriorM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\CervicalPosteriorM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\GluteoDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\GluteoDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\GluteoDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\GluteoIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\GluteoIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\GluteoIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\IsquiotibialDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\IsquiotibialDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\IsquiotibialDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\IsquiotibialIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\IsquiotibialIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\IsquiotibialIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\OccipitalM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\OccipitalM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\OccipitalM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\PantorrillaDerechaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\PantorrillaDerechaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\PantorrillaDerechaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\PantorrillaIzquierdaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\PantorrillaIzquierdaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\PantorrillaIzquierdaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\RegionEscapularDerechaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\RegionEscapularDerechaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\RegionEscapularDerechaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\RegionEscapularIzquierdaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\RegionEscapularIzquierdaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\RegionEscapularIzquierdaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\RegionLumbarM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\RegionLumbarM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\RegionLumbarM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\RegionPoplipteaDerechaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\RegionPoplipteaDerechaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\RegionPoplipteaDerechaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\RegionPoplipteaIzquierdaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\RegionPoplipteaIzquierdaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\RegionPoplipteaIzquierdaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\RegionToracicaM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\RegionToracicaM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\RegionToracicaM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\TalonDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\TalonDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\TalonDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\TalonIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\TalonIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\TalonIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\TendonAquilesDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\TendonAquilesDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\TendonAquilesDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\TendonAquilesIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\TendonAquilesIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\TendonAquilesIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\TricepDerechoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\TricepDerechoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\TricepDerechoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\TricepIzquierdoM.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\MujerCorporal\\AreasPosterior\\TricepIzquierdoM.png",
       "PackagePath": "staticwebassets\\MujerCorporal\\AreasPosterior\\TricepIzquierdoM.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\Utils\\Perfil.png",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\Utils\\Perfil.png",
       "PackagePath": "staticwebassets\\Utils\\Perfil.png"
     },
     {
-      "Id": "D:\\Apps\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\swagger-ui\\custom.css",
+      "Id": "C:\\Users\\lopez\\Documents\\Proyectos\\Fisiolabs\\Backend\\fisiolabs_backend\\Presentation\\wwwroot\\swagger-ui\\custom.css",
       "PackagePath": "staticwebassets\\swagger-ui\\custom.css"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",

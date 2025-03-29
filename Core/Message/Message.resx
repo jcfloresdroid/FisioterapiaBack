@@ -373,7 +373,7 @@
     <value>El campo inspeccion no puede estar vacio</value>
   </data>
   <data name="DIAG_0010" xml:space="preserve">
-    <value>El campo palpitacion no puede estar vacio</value>
+    <value>El campo de exploración física no puede estar vacio</value>
   </data>
   <data name="DIAG_0011" xml:space="preserve">
     <value>El campo movilidad no puede estar vacio</value>
@@ -433,7 +433,7 @@
     <value>El campo folio de pago no puede estar vacio</value>
   </data>
   <data name="REV_0004" xml:space="preserve">
-    <value>El campo servicio id no puede estar vacio</value>
+    <value>El campo servicio no puede estar vacio</value>
   </data>
   <data name="EXPE_0001" xml:space="preserve">
     <value>Expediente no encontrado</value>
