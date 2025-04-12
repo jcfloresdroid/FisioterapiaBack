@@ -86,4 +86,11 @@ public class DiagnosticoController : ControllerBase
         await _mediator.Send(command);
         return Ok("Se finalizo correctamente el diagnostico");
     }
+    
+    [HttpPut()]
+    public async Task<IActionResult> PutDiagnostic([FromBody] EditDiagnostico command)
+    {
+        await _mediator.Send(command);
+        return Ok("Se actualizo el diagnostico correctamente");
+    }
 }

@@ -10,9 +10,11 @@ public class DiagnosticoValidator : IDiagnosticoValidator
     private readonly AddDiagnostico _validator;
     private readonly CrearRevisiones _revisionValidator;
     private readonly EndDiagnostico _endDiagnostico;
+    private readonly ModifyDiagnostico _modifyDiag;
     
-    public DiagnosticoValidator(AddDiagnostico validator, CrearRevisiones revisionValidator, EndDiagnostico endDiagnostico)
+    public DiagnosticoValidator(AddDiagnostico validator, CrearRevisiones revisionValidator, EndDiagnostico endDiagnostico, ModifyDiagnostico modifyDiag)
     {
+        _modifyDiag = modifyDiag;
         _validator = validator;
         _revisionValidator = revisionValidator;
         _endDiagnostico = endDiagnostico;
@@ -21,6 +23,14 @@ public class DiagnosticoValidator : IDiagnosticoValidator
     public async Task crearDiagnostico(GeneralDiagnosticPost diagnostico)
     {
         var diagValidator = await _validator.ValidateAsync(diagnostico);
+
+        if (!diagValidator.IsValid)
+            throw new ValidationException(diagValidator.Errors);
+    }
+
+    public async Task ModificarDiagnostico(EditDiagnostico diagnostico)
+    {
+        var diagValidator = await _modifyDiag.ValidateAsync(diagnostico);
 
         if (!diagValidator.IsValid)
             throw new ValidationException(diagValidator.Errors);
