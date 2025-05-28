@@ -36,12 +36,22 @@ public partial class FisioContext : DbContext
     {
         modelBuilder.Entity<Cat_Especialidades>(entity =>
         {
+            var especialidad = new Cat_Especialidades
+            {
+                EspecialidadesId = 1,
+                Descripcion = "Fisioterapeuta",
+                Status = true
+            };
+            
             entity.HasKey(e => e.EspecialidadesId);
 
             entity.ToTable("cat_especialidad");
             
             // Configuración de las propiedades de la entidad Cat_Especialidades
             entity.HasIndex(e => e.Descripcion).IsUnique();
+            
+            // Agregar la especialidad por defecto si no existe
+            entity.HasData(especialidad);
         });
         
         modelBuilder.Entity<Cat_EstadoCivil>(entity =>
@@ -395,6 +405,16 @@ public partial class FisioContext : DbContext
 
         modelBuilder.Entity<Usuario>(entity =>
         {
+            var adminUser = new Usuario
+            {
+                UsuarioId = 1,
+                Username = "admin",
+                Password = BCrypt.Net.BCrypt.HashPassword("12345"), 
+                Clave = BCrypt.Net.BCrypt.HashPassword("12345"),
+                FechaRegistro = DateTime.Now.Date,
+                EspecialidadId = null 
+            };
+            
             entity.ToTable("usuario");
 
             entity.HasKey(e => e.UsuarioId);
@@ -410,6 +430,8 @@ public partial class FisioContext : DbContext
                 .HasForeignKey(d => d.EspecialidadId)
                 .OnDelete(DeleteBehavior.SetNull)
                 .HasConstraintName("usuario_ibfk_1");
+            
+            entity.HasData(adminUser);
         });
 
         base.OnModelCreating(modelBuilder);

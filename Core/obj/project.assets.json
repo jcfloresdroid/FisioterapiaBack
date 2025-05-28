@@ -5788,13 +5788,12 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Apps\\fisiolabs\\fisiolabs_backend\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\NexusTech\\Fisio\\FisioterapiaBack\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "D:\\Apps\\fisiolabs\\fisiolabs_backend\\Core\\Core.csproj",
+      "projectPath": "D:\\NexusTech\\Fisio\\FisioterapiaBack\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
-      "outputPath": "D:\\Apps\\fisiolabs\\fisiolabs_backend\\Core\\obj\\",
+      "outputPath": "D:\\NexusTech\\Fisio\\FisioterapiaBack\\Core\\obj\\",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
@@ -5825,7 +5824,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {

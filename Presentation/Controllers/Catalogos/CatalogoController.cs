@@ -87,6 +87,7 @@ public class CatalogoController : ControllerBase
     /// <summary>
     /// Registrar una nueva especialidad
     /// </summary>
+    [AllowAnonymous]
     [HttpPost("Especialidades")]
     public async Task<IActionResult> PostEspecialidades([FromBody] PostEspecialidades command)
     {
