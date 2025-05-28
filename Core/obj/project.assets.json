@@ -5794,6 +5794,7 @@
       "packagesPath": "C:\\Users\\lopez\\.nuget\\packages\\",
       "outputPath": "D:\\NexusTech\\Fisio\\FisioterapiaBack\\Core\\obj\\",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
@@ -5824,8 +5825,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {

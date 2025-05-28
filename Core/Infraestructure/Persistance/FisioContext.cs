@@ -76,12 +76,29 @@ public partial class FisioContext : DbContext
         
         modelBuilder.Entity<Cat_MotivoAlta>(entity =>
         {
+            var motivo = new Cat_MotivoAlta
+            {
+                MotivoAltaId = 1,
+                Descripcion = "Se siente bien",
+                Status = true
+            };
+            
+            var motivo2 = new Cat_MotivoAlta
+            {
+                MotivoAltaId = 1,
+                Descripcion = "Fallecio",
+                Status = true
+            };
+            
             entity.HasKey(e => e.MotivoAltaId);
 
             entity.ToTable("cat_motivo_alta");
             
             // Configuración de las propiedades de la entidad Cat_MotivoAlta
             entity.HasIndex(e => e.Descripcion).IsUnique();
+            
+            // Agregar los motivos por defecto si no existen
+            entity.HasData(motivo, motivo2);
         });
         
         modelBuilder.Entity<Cat_Patologias>(entity =>
